@@ -2,7 +2,7 @@
 
 # Project Title
 
-Fitness Logbook
+Just Do It
 
 ## Inspiration
 Due to Covid-19, people have been staying indoors and their lifestyles have changed dramatically. Once active people now stay indoors and rarely get out as much. Going out and finding new things to do is what life is about.
